@@ -16,6 +16,7 @@ This classification ensures that each query type is handled with the right logic
 ## 🛠️ Tech Stack
 - **Python**
 - **ChromaDB**
+- **SQLite DB**
 - **Groq + LLM (model=llama-3.3-70b-versatile)**
 - **Sentence Embeddings (using sentence-transformers/all-MiniLM-L6-v2)**
 
