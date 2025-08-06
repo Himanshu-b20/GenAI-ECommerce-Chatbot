@@ -39,3 +39,11 @@ This classification ensures that each query type is handled with the right logic
    ```commandline
     streamlit run app/main.py
    ```
+
+## 📊 Stremlit UI
+
+![Screenshot 2025-08-06 at 10 45 44 PM-fotor-2025080623714](https://github.com/user-attachments/assets/9fa35431-60ce-4349-aefe-952b442756b5)
+![Screenshot 2025-08-06 at 10 46 03 PM-fotor-2025080623810](https://github.com/user-attachments/assets/98637b36-9fde-487c-befa-90b3dbda2b00)
+![Screenshot 2025-08-06 at 10 47 10 PM-fotor-202508062390](https://github.com/user-attachments/assets/b2f1e488-6493-4a04-9854-4c4bcca5d57d)
+
+
