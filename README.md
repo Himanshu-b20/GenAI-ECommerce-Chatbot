@@ -43,7 +43,6 @@ This classification ensures that each query type is handled with the right logic
 ## 📊 Stremlit UI
 
 ![Screenshot 2025-08-06 at 11 56 56 PM-fotor-202508070033](https://github.com/user-attachments/assets/cd7aba3b-ff00-43c6-b000-a25a880049c8)
-![Screenshot 2025-08-06 at 11 56 56 PM-fotor-202508070138](https://github.com/user-attachments/assets/293a0d43-6b5a-4d1f-9021-086ecbafc2de)
 ![Screenshot 2025-08-06 at 11 58 04 PM-fotor-202508070224](https://github.com/user-attachments/assets/8b02a839-d726-4eb0-bab9-c82fae5862b1)
 
 
