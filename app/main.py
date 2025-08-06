@@ -18,8 +18,11 @@ def ask(query):
         return small_talk_chain(query)
     else:
         return f'Please ask questions related to Flipkart policies and products, Thanks!'
+st.set_page_config(page_title="Askie - E-commerce Chatbot", page_icon="🛍️", layout="centered")
 
-st.title("E Commerce Chatbot")
+st.markdown("## 🛍️ Welcome to **Askie** – Your E-Commerce Assistant")
+st.markdown('<p>👋 Hi there! My name is <strong>Askie</strong>. How can I help you today?</p>', unsafe_allow_html=True)
+
 
 if 'messages' not in st.session_state:
     st.session_state['messages']=[]
@@ -28,7 +31,7 @@ for messages in st.session_state.messages:
     with st.chat_message(messages['role']):
         st.markdown(messages['content'])
 
-query  = st.chat_input('Write your query here..')
+query  = st.chat_input('💬   Write your query here..')
 
 if query:
     with st.chat_message('user'):
